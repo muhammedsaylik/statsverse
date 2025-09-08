@@ -56,16 +56,16 @@ Statsverse/
 ├── environment.yml         
 │
 ├── docs/                  
-│   ├── 01_temel_istatistikler.md
-│   ├── 02_olasilik_dagilimlari.md
+│   ├── 01_descriptive_statistics.md
+│   ├── 02_probability_distributions.md
 │   └── ...
 │
 ├── notebooks/             
 │   ├── python/
-│   │   ├── 01_temel_istatistikler.ipynb
+│   │   ├── 01_descriptive_statistics.ipynb
 │   │   └── ...
 │   └── R/
-│       ├── 01_temel_istatistikler.Rmd
+│       ├── 01_descriptive_statistics.Rmd
 │       └── ...
 │
 ├── data/                  
