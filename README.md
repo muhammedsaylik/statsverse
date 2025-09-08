@@ -1,17 +1,27 @@
- # 🌐 Statsverse – Advanced Statistics & Data Analysis
-
-> **Statsverse** is a comprehensive open-source project that unifies  
-> 📖 **theory**, 🧪 **practice**, and ⚙️ **automation**  
-> in **advanced statistics, probability, regression, time series, and machine learning**.
-
+ 
 ---
+ 
+<h1 align="center">🌐 Statsverse</h1>
 
-## 📊 Badges
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Last Commit](https://img.shields.io/github/last-commit/username/Statsverse)
-![Repo Size](https://img.shields.io/github/repo-size/username/Statsverse)
+<p align="center">
+  <i>Advanced Statistics • Data Analysis • Machine Learning</i>
+</p>
 
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?logo=open-source-initiative&logoColor=white" />
+  
+  <!-- Repo Info -->
+  <img src="https://img.shields.io/github/last-commit/username/Statsverse?logo=git&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/username/Statsverse?color=blueviolet&logo=files" />
+  <img src="https://img.shields.io/github/stars/username/Statsverse?logo=github&color=yellow" />
+  
+  <!-- Community -->
+  <img src="https://img.shields.io/github/contributors/username/Statsverse?logo=github&color=brightgreen" />
+</p>
+
+ 
 ---
 
 ## 📖 Table of Contents
@@ -46,15 +56,15 @@ Statsverse/
 │
 ├── README.md              
 ├── LICENSE
-├── requirements.txt       # Python dependencies
-├── environment.yml        # Conda environment (optional)
+├── requirements.txt       
+├── environment.yml         
 │
-├── docs/                  # Theoretical docs (Markdown)
+├── docs/                  
 │   ├── 01_temel_istatistikler.md
 │   ├── 02_olasilik_dagilimlari.md
 │   └── ...
 │
-├── notebooks/             # Hands-on notebooks
+├── notebooks/             
 │   ├── python/
 │   │   ├── 01_temel_istatistikler.ipynb
 │   │   └── ...
@@ -62,30 +72,18 @@ Statsverse/
 │       ├── 01_temel_istatistikler.Rmd
 │       └── ...
 │
-├── data/                  # Sample datasets or external links
+├── data/                  
 │
-├── src/                   # Reusable code
+├── src/                   
 │   ├── preprocessing/
 │   ├── visualization/
 │   ├── statistical_tests/
 │   └── ml_models/
 │
-├── tests/                 # Unit tests (optional)
+├── tests/                 
 │
-└── outputs/               # Figures, tables, reports
+└── outputs/               
 ```
-⚙️ Installation
-
-Clone the repository and install dependencies:
-
-git clone https://github.com/username/Statsverse.git
-cd Statsverse
-pip install -r requirements.txt
-
-
-Or with Conda:
-
-conda env create -f environment.yml
-conda activate statsverse
+ 
 
  
