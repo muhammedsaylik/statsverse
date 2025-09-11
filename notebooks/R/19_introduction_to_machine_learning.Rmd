@@ -1,3 +1,0 @@
-# Module 19: Introduction To Machine Learning
-
-R notebook is under preparation.

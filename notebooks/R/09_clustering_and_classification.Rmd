@@ -1,3 +1,0 @@
-# Module 09: Clustering And Classification
-
-R notebook is under preparation.

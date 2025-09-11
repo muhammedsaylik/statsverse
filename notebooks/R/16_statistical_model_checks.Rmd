@@ -1,3 +1,0 @@
-# Module 16: Statistical Model Checks
-
-R notebook is under preparation.

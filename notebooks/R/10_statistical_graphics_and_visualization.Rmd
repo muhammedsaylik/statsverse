@@ -1,3 +1,0 @@
-# Module 10: Statistical Graphics And Visualization
-
-R notebook is under preparation.

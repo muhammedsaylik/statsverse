@@ -1,3 +1,0 @@
-# Module 13: Advanced Correlation And Dependency
-
-R notebook is under preparation.

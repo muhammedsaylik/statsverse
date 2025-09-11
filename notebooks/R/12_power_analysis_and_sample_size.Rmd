@@ -1,3 +1,0 @@
-# Module 12: Power Analysis And Sample Size
-
-R notebook is under preparation.

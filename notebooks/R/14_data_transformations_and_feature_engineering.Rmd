@@ -1,3 +1,0 @@
-# Module 14: Data Transformations And Feature Engineering
-
-R notebook is under preparation.

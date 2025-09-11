@@ -1,3 +1,0 @@
-# Module 06: Correlation And Regression Analysis
-
-R notebook is under preparation.

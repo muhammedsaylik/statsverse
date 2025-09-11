@@ -1,3 +1,0 @@
-# Module 04: Order Statistics And Powerful Tests
-
-R notebook is under preparation.

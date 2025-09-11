@@ -1,3 +1,0 @@
-# Module 02: Probability Distributions
-
-R notebook is under preparation.

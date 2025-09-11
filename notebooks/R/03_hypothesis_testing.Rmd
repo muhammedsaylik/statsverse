@@ -1,3 +1,0 @@
-# Module 03: Hypothesis Testing
-
-R notebook is under preparation.
