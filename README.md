@@ -86,7 +86,7 @@ Statsverse consists of 20 modules that bridge theory and practice.
  
  | #  | Module | Description |
 | -- | ------- | ----------- |
-| 01 | [Descriptive Statistics](docs/01_descriptive_statistics.md) | Summarizing and visualizing data |
+| 01 | [Descriptive Statistics](docs/01_basic_statistics.md) | Summarizing and visualizing data |
 | 02 | [Probability Distributions](docs/02_probability_distributions.md) | Discrete & continuous distributions |
 | 03 | [Hypothesis Testing](docs/03_hypothesis_testing.md) | Classical and modern testing approaches |
 | 04 | [Order Statistics & UMP Tests](docs/04_order_statistics_ump_tests.md) | Distribution of order stats, uniformly most powerful tests |
