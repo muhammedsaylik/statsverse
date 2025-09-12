@@ -50,16 +50,17 @@ This dataset contains information on **student demographics and academic perform
 
 ##  📓 Code Notebooks
 
-<div align="center">
+ <div align="center">
 
 ### 📚 Interactive Notebooks
 
 | 🐍 Python | 📊 R |
 |-----------|------|
-| [![Python Notebook](https://img.shields.io/badge/Python-Notebook-3776AB?style=for-the-badge&logo=python&logoColor=white)](notebooks/python/01_basic_statistics.ipynb) | [![R Notebook](https://img.shields.io/badge/R-Notebook-276DC3?style=for-the-badge&logo=r&logoColor=white)](notebooks/R/01-basic-statistics.ipynb) |
-| **[01_basic_statistics.ipynb](notebooks/python/01_basic_statistics.ipynb)** | **[01-basic-statistics.ipynb](notebooks/R/01-basic-statistics.ipynb)** |
+| [![Python Notebook](https://img.shields.io/badge/Python-Notebook-3776AB?style=for-the-badge&logo=python&logoColor=white)](../notebooks/python/01_basic_statistics.ipynb) | [![R Notebook](https://img.shields.io/badge/R-Notebook-276DC3?style=for-the-badge&logo=r&logoColor=white)](../notebooks/R/01-basic-statistics.ipynb) |
+| **[01_basic_statistics.ipynb](../notebooks/python/01_basic_statistics.ipynb)** | **[01-basic-statistics.ipynb](../notebooks/R/01-basic-statistics.ipynb)** |
 
 </div>
+
 
 ---
 
